@@ -1,0 +1,3 @@
+[submodule "stm_main/libraries"]
+	path = stm_main/libraries
+	url = https://github.com/hcmos/kicad7_libraries
