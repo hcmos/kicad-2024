@@ -1,3 +1,6 @@
 [submodule "stm_main/libraries"]
 	path = stm_main/libraries
 	url = https://github.com/hcmos/kicad7_libraries
+[submodule "raspberrypi_hat/libraries"]
+	path = raspberrypi_hat/libraries
+	url = https://github.com/hcmos/kicad7_libraries
