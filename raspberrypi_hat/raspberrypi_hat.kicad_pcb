@@ -31619,7 +31619,7 @@
 
   (footprint "logo_pretty:rdclab_small" (layer "B.Cu")
     (tstamp ed4e2c4e-813b-4319-9bc1-ab60d57714c0)
-    (at 54.356 33.02 180)
+    (at 45.974 78.994 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "B.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
